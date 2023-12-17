@@ -42,7 +42,7 @@ def main():
     else:
         print("Error in processing CD account.")
 
-# #Call the main function. Line 46 code provided 
+# Call the main function. Line 46 code provided 
 if __name__ == "__main__":
    
     main()
