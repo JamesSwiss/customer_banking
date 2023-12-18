@@ -16,6 +16,10 @@ Both the create_savings_account and create_cd_account functions internally calcu
 # Display Results:
 Results are displayed for both savings and CD accounts, showing the interest earned and updated account balances.
 
+# Sources Used:
+Code copied verbatim or modified slightly from Class Activities and starter code
+Bing Ask
+
 
 
 
