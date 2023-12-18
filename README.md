@@ -2,7 +2,7 @@
 
 This Python program is a basic customer banking application. It provides functionality for creating savings and CD accounts, calculating interest, and viewing the updated account balances based on the user inputs.
 
-## Features
+# Features
 
 # Create Savings Account**
 Users can input their initial savings account balance, interest rate, and the number of months. The program then creates a savings account instance, calculates the interest earned, updates the account balance, and displays the results.
