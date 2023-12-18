@@ -1,6 +1,6 @@
 # Customer Banking Application
 
-This Python program is a basic customer banking application. It provides functionality for creating savings and CD accounts, calculating interest, and updating account balances based on the user inputs.
+This Python program is a basic customer banking application. It provides functionality for creating savings and CD accounts, calculating interest, and viewing the updated account balances based on the user inputs.
 
 ## Features
 
@@ -10,14 +10,12 @@ Users can input their initial savings account balance, interest rate, and the nu
 - **Create CD Account:
 Users can input their initial CD account balance, APR (Annual Percentage Rate), and the length of months for the CD. The program creates a CD account instance, calculates the interest earned, updates the account balance, and displays the results.
 
+- **Calculate Interest:
+Both the create_savings_account and create_cd_account functions internally calculate interest based on the user input.
+
+- **Display Results:
+Results are displayed for both savings and CD accounts, showing the interest earned and updated account balances.
 
 
-# Usage:
-1) Clone the repository:
-git clone https://github.com/yourusername/customer_banking.git
-2) Navigate to the project directory:
-cd customer_banking
-3) Run
-python cusotmer_banking
 
 
